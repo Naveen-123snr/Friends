@@ -1,0 +1,108 @@
+1669747663000	geckodriver	INFO	Listening on 127.0.0.1:61964
+1669747666052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\CNAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileCeEVKo"
+1669747666450	Marionette	INFO	Marionette enabled
+1669747666455	Marionette	INFO	Listening on port 61976
+Read port: 61976
+1669747666584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CNAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileCeEVKo\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yO/l/en_GB/SZ027T49Sw5.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i72i4/yB/l/makehaste_jhash/A6Gcxuv6Jd3.js?_nc_x=yTHBp0ZqUcw, line 142: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1669747686827	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669747686829	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669747770355	geckodriver	INFO	Listening on 127.0.0.1:62030
+1669747773401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\CNAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileBytFof"
+1669747773761	Marionette	INFO	Marionette enabled
+1669747773766	Marionette	INFO	Listening on port 62042
+Read port: 62042
+1669747773892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CNAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileBytFof\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yO/l/en_GB/SZ027T49Sw5.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i72i4/yB/l/makehaste_jhash/A6Gcxuv6Jd3.js?_nc_x=yTHBp0ZqUcw, line 142: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iHZL4/yi/l/makehaste_jhash/5HveZtVoan2DJtHihSU9O-itflaONo3DpF2WFTJ0erf1gXfY47ouOEAQ5EVLQU0sPOkhbICUSnB4S.js?_nc_x=yTHBp0ZqUcw, line 880: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iHZL4/yi/l/makehaste_jhash/5HveZtVoan2DJtHihSU9O-itflaONo3DpF2WFTJ0erf1gXfY47ouOEAQ5EVLQU0sPOkhbICUSnB4S.js?_nc_x=yTHBp0ZqUcw, line 880: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iHZL4/yi/l/makehaste_jhash/5HveZtVoan2DJtHihSU9O-itflaONo3DpF2WFTJ0erf1gXfY47ouOEAQ5EVLQU0sPOkhbICUSnB4S.js?_nc_x=yTHBp0ZqUcw, line 880: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1669747791393	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669747791399	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669747923055	geckodriver	INFO	Listening on 127.0.0.1:62098
+1669747926097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\CNAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileLzjbOK"
+1669747926492	Marionette	INFO	Marionette enabled
+1669747926498	Marionette	INFO	Listening on port 62110
+Read port: 62110
+1669747926632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CNAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileLzjbOK\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yO/l/en_GB/SZ027T49Sw5.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i72i4/yB/l/makehaste_jhash/A6Gcxuv6Jd3.js?_nc_x=yTHBp0ZqUcw, line 142: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iHZL4/yi/l/makehaste_jhash/5HveZtVoan2DJtHihSU9O-itflaONo3DpF2WFTJ0erf1gXfY47ouOEAQ5EVLQU0sPOkhbICUSnB4S.js?_nc_x=yTHBp0ZqUcw, line 880: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iHZL4/yi/l/makehaste_jhash/5HveZtVoan2DJtHihSU9O-itflaONo3DpF2WFTJ0erf1gXfY47ouOEAQ5EVLQU0sPOkhbICUSnB4S.js?_nc_x=yTHBp0ZqUcw, line 880: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1669747946614	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669747946697	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669747950824	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669747955587	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669747969375	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669747973792	geckodriver	INFO	Listening on 127.0.0.1:62164
+1669747976788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\CNAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilexP6jXJ"
+1669747977404	Marionette	INFO	Marionette enabled
+1669747977416	Marionette	INFO	Listening on port 62177
+Read port: 62177
+1669747977551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CNAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilexP6jXJ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yO/l/en_GB/SZ027T49Sw5.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i72i4/yB/l/makehaste_jhash/A6Gcxuv6Jd3.js?_nc_x=yTHBp0ZqUcw, line 142: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1669748017786	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669748017838	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669748039293	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669748044026	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669748053073	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669748057822	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
